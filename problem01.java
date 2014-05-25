@@ -10,6 +10,7 @@ public static void main(String args[])
 			sum+=i;
 		}
 	}
-	System.out.println(sum);
+	System.out.println("The sum of all multiples of 3 or 5 below 1000 is " + sum);
+	System.out.print("\n");
 }
 }
